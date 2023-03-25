@@ -1,3 +1,3 @@
 for each customer:
-   disp customer.name.
+   disp customer.name customer.age.
 end.
